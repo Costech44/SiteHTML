@@ -57,6 +57,7 @@ body {
     padding: 0px 0px 0px 15px;
     margin-top: 5px;
     margin-bottom: 10px;
+    font-family:'Gugi', sans-serif;
 }
 
 .lista p {
@@ -91,4 +92,44 @@ body {
     transition: 1s;
 }
 
+.contate {
+    padding: 0px 0px 0px 15px;
+    font-family: 'Sometype',monospace;
+    font-size: 20px;
+}
 
+.contate h1 {
+    font-family:'Gugi', sans-serif;
+}
+
+.pecontato {
+    font-size: 15px;
+}
+
+.codigo {
+    padding: 0px 0px 0px 15px;
+    font-family: 'Sometype',monospace;
+    font-size: 20px;
+}
+
+.codigo h1 {
+    font-family:'Gugi', sans-serif;
+}
+
+.pecodigo {
+    font-size: 15px;
+}
+
+.project {
+    padding: 0px 0px 0px 15px;
+    font-family: 'Sometype',monospace;
+    font-size: 20px;
+}
+
+.project h1 {
+    font-family:'Gugi', sans-serif;
+}
+
+.pepagina {
+    font-size: 15px;
+}
