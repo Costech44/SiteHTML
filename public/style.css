@@ -1,10 +1,10 @@
 
 body {
-    background: linear-gradient(to bottom right, yellow, limegreen );
+    background: linear-gradient(to bottom right, white 45%, blue );
 }
 
 .titulo {
-    background: linear-gradient(to bottom right, yellow 50%, black 50%);
+    background: linear-gradient(to bottom right, white 35%, blue);
     border: 3px solid black;
     border-radius: 3px;
     height: 50px;
@@ -32,7 +32,7 @@ body {
 
  .close a:hover {
     text-decoration: underline;
-    color: green;
+    color: blue;
     font-size: 30px;
     cursor: pointer;
     transition: 1s;
@@ -48,17 +48,10 @@ body {
 
  .open a:hover {
     text-decoration: underline;
-    color: green;
+    color: blue;
     font-size: 30px;
     transition: 1s;
  }
-
- .cabeca {
-    background: linear-gradient(to bottom right, yellow 60%, limegreen);
-    border: 3px solid black;
-    border-radius: 3px;
-    height: 70px;
-}
 
 .cabeca h1 {
     padding: 0px 0px 0px 15px;
@@ -97,3 +90,5 @@ body {
     cursor: pointer;
     transition: 1s;
 }
+
+
